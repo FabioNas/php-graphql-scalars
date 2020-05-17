@@ -1,4 +1,5 @@
 {
+  "version": "1.0.0-alpha.0",
   "name": "stagem/php-graphql-scalars",
   "description": "PHP library of custom GraphQL Scalars for creating precise type-safe GraphQL schemas",
   "type": "library",
